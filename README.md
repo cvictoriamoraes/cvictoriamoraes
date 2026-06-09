@@ -13,7 +13,7 @@ Tenho interesse em:
 - Análise de dados
 - Resolução de Problemas
 
-## Atualmente estudando
+## Atualmente estudando:
 
 - Linguagem C
 - Lógica de Programação
